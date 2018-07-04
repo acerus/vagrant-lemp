@@ -17,7 +17,7 @@ _Note: Vagrant::Hostsupdater is optional to automatically add the entry to the h
 ## Usage
 
 ```
-git clone https://github.com/fsylum/vagrant-boilerplate <project-name>
+git clone https://github.com/acerus/vagrant-lemp <project-name>
 cd <project-name>
 vagrant up
 ```
